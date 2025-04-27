@@ -17,6 +17,12 @@
            remote="github"
            sync-c="true"
            sync-j="4" />
+  
+  <remote  name="hk"
+          fetch="https://gitea.com/Hirokixd"
+          sync-c="true"
+          sync-j="4" />
+
 
   <!-- AOSP Projects -->
 
